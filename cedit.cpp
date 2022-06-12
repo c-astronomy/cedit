@@ -1,5 +1,6 @@
 #include <iostream>
 #include <wx/wxprec.h>
+#include <CCfits>
 #ifndef WX_PRECOMP
 	#include <wx/wx.h>
 #endif
